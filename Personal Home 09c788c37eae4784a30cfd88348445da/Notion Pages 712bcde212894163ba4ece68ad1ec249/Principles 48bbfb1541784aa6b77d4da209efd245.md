@@ -1,4 +1,0 @@
-# Principles
-
-> Compounding actions
->

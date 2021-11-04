@@ -1,3 +1,0 @@
-# Ideas
-
-Geo tag message boards that appear superimposed over locations when you point your camera at them … kinda like Yik yak but only available in certain locations like a Pokémon gym would be

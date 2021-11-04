@@ -1,4 +1,0 @@
-# Untitled
-
-animal_id: 2
-farm_id: 2

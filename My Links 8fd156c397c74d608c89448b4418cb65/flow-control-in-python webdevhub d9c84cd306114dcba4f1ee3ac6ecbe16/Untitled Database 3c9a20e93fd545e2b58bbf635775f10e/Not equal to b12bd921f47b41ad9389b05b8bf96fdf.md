@@ -1,3 +1,0 @@
-# Not equal to
-
-==: !=
